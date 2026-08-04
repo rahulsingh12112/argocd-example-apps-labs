@@ -1,0 +1,6 @@
+apiVerison: v1
+kind: ConfigMap
+metadata:
+  name: test-config
+data:
+  messages: "This is for testing purpose."
